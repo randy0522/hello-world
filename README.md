@@ -1,2 +1,3 @@
 # hello-world
-start learn github
+hi @all
+this is my first brance to learn how use it
